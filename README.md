@@ -18,6 +18,8 @@ If you want to connect to a Speck on a particular port, use something like this:
 
     SPECK_PATH=0001:0005:00 node index.js
 
+Linux/Raspberry Pi users will probably need to run as root or with sudo privileges.
+
 Installation on a Raspberry Pi
 ==============================
 
